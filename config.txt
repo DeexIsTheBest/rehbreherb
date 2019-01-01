@@ -1,6 +1,6 @@
 token= vNTI5Njk2ODgyNDUzMzgxMTIw.Dw0xxA.mDPak7RQyDuFhhZ4oNgqNZXc4Mo
 owner= 454421822478352416 
-prefix= Q
-game= Qhelp 
+prefix= 1Q
+game= 1Qhelp 
 stayinchannel=true 
 songinstatus=true 
