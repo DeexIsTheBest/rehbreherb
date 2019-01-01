@@ -1,6 +1,6 @@
-token= NTI5Njk2ODE0Nzk4OTk1NDk2.Dw0xJg.f8Vd47EnT2-OgFCF7JzuVh9GmHM
+token= vNTI5Njk2ODgyNDUzMzgxMTIw.Dw0xxA.mDPak7RQyDuFhhZ4oNgqNZXc4Mo
 owner= 454421822478352416 
-prefix= 6
-game= 6help 
+prefix= Q
+game= Qhelp 
 stayinchannel=true 
 songinstatus=true 
