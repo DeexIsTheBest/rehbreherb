@@ -1,6 +1,6 @@
-token= NTI5NjM1MjAzODY2Njg5NTM2.DwzubA.1tekA4d5ZMjzFGKXEsSlrxB28yM
+token= NTI5NjM1NDIwMDUzNzAwNjA4.DwzvfA.amFmYLpmvHIvnqFUI_yeFu3I2IU
 owner= 328333685088845824 
-prefix= 1
-game= 1help|Blood 
+prefix= 2
+game= 2help|Blood 
 stayinchannel=true 
 songinstatus=true 
