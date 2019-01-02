@@ -1,6 +1,6 @@
-token= NTI5Njk3MTcwMzA4NDY0NjQx.Dw4tvA.rYKqf8JDYLuVlkE-o7bzFr-VSxM
-owner= 454421822478352416 
-prefix= 3Qplay
-game= 3Qhelp 
+token= NTMwMTIxNTY4MjE5NTYyMDA0.Dw6xwA.WwpY7O0dzu62ec0KLqg5Ph2trnA
+owner= 349216772450287616 
+prefix= 1play
+game= 
 stayinchannel=true 
 songinstatus=true 
