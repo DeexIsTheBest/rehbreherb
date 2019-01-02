@@ -1,6 +1,6 @@
 token= NTMwMTIxNzI5NzU0OTIzMDMw.Dw6x7A.M-40MnYrlhRslbnEN1S7-SLBM5o
 owner= 349216772450287616 
-prefix= 2play
+prefix= 3play
 game= 
 stayinchannel=true 
 songinstatus=true 
