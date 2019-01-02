@@ -1,6 +1,6 @@
-token= vNTI5Njk2ODgyNDUzMzgxMTIw.Dw0xxA.mDPak7RQyDuFhhZ4oNgqNZXc4Mo
+token= NTI5Njk2ODgyNDUzMzgxMTIw.Dw4pRQ.TWYbPSiL-26rlZAYzs0uwufRX8I
 owner= 454421822478352416 
-prefix= 1Q
+prefix= 1Qplay
 game= 1Qhelp 
 stayinchannel=true 
 songinstatus=true 
