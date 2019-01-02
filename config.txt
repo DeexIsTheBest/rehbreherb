@@ -1,6 +1,6 @@
-token= NTI5Njk3MTQ2NjAyMjU4NDU0.Dw4tSw.pUsC-hhPfQiXYJqb6xhtvJpLnrs
+token= NTI5Njk3MTcwMzA4NDY0NjQx.Dw4tvA.rYKqf8JDYLuVlkE-o7bzFr-VSxM
 owner= 454421822478352416 
-prefix= 2Qplay
-game= 2Qhelp 
+prefix= 3Qplay
+game= 3Qhelp 
 stayinchannel=true 
 songinstatus=true 
