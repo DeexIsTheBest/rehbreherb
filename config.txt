@@ -1,6 +1,6 @@
-token= NTMwMTIxNTY4MjE5NTYyMDA0.Dw6xwA.WwpY7O0dzu62ec0KLqg5Ph2trnA
-owner= 349216772450287616 
-prefix= 2play
-game= 
+token= NTMwODE3ODMxNDYyNTAyNDA0.DxE6uA.Wx-1Ks-V0_BMbwKaGndydY65w0o
+owner= 447399500835848192 
+prefix= Dplay
+game= ILOVE DEEX
 stayinchannel=true 
 songinstatus=true 
