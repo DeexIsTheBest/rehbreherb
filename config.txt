@@ -1,6 +1,6 @@
-token= NTMwODE3ODMxNDYyNTAyNDA0.DxE6uA.Wx-1Ks-V0_BMbwKaGndydY65w0o
+token= NTMxNTE3NDU2OTU5OTMwNDEw.DxPF6Q.cYVzV9SKu3iscpQhSIqzm-ncTys
 owner= 447399500835848192
-prefix= dplay
-game= ILOVE DEEX
+prefix= d
+game= dplay|Deex
 stayinchannel=true 
 songinstatus=true 
