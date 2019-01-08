@@ -1,6 +1,6 @@
-token= NTMxNTE3NDU2OTU5OTMwNDEw.DxPF6Q.cYVzV9SKu3iscpQhSIqzm-ncTys
+token= NTMyMTkzMTc2Mzg4MjM5Mzgx.DxZATQ.-QKV8Yui7vDwFPSiQ8jvrEXJURs
 owner= 447399500835848192
-prefix= d
-game= dplay|Deex
+prefix= +
+game= MusicDeex
 stayinchannel=true 
 songinstatus=true 
