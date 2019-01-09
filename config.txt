@@ -1,6 +1,6 @@
-token= NTMyNTgyNzgzMzgyNTg1MzUy.Dxel4Q.JhtWf_tZNNdq0Vsw3H2aiqYqZWk
+token= NTMyNTgzNjMzNzQ0Mjk4MDAz.DxemrA.M7oSiDjx-UVloiB2TTA4rVSJ_Fk
 owner= 444918581659172864
-prefix= 2
-game= 2Help
+prefix= 3
+game= 3Help
 stayinchannel=true 
 songinstatus=true 
