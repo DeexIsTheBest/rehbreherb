@@ -1,6 +1,6 @@
-token= NTMyMTkzMTc2Mzg4MjM5Mzgx.DxZATQ.-QKV8Yui7vDwFPSiQ8jvrEXJURs
-owner= 447399500835848192
-prefix= +
-game= MusicDeex
+token= NTMyNTgxNTk4NTgzODQ4OTYy.DxekyQ.V6sLVI4m_OdB76ov1lT2v25gvKY
+owner= 444918581659172864
+prefix= 1
+game= 1Help
 stayinchannel=true 
 songinstatus=true 
