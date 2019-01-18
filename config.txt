@@ -1,6 +1,6 @@
-token= NTM0NDA0MjE4NzQwNTM5Mzky.Dx5JoA.0NbABdA69YLjQLujoVQKhBpW3Ec
-owner= 524231382734602242
-prefix= 4
-game= 4Help
+token= NTM1NzQ4NzkwMzE0MDc0MTEy.DyMslA.3Y4fyzNh-yIj0k8TDvHgEI6Gyd8
+owner= 447399500835848192
+prefix= 1
+game= 1Help
 stayinchannel=true 
 songinstatus=true 
