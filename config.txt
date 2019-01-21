@@ -1,4 +1,4 @@
-token= NTM2OTQ1MzAxOTkxMTk0NjI1.DyeE0g.pmj9jE4uWzw2uDBsdrcfqoapAOA
+token= NTM2OTQ1MjU4NzczMjE3Mjgw.DyeGCg.5vDlYy1WlRyozZyjiAkQ8WWTVaU
 owner= 450973027853664256
 prefix= 1
 game= Corazon Server
