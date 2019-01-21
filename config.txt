@@ -1,6 +1,6 @@
 token= NTM2OTQ1MzAxOTkxMTk0NjI1.DyeE0g.pmj9jE4uWzw2uDBsdrcfqoapAOA
 owner= 450973027853664256
 prefix= 1
-game= 1Help
+game= Corazon Server
 stayinchannel=true 
-songinstatus=true 
+songinstatus=false 
