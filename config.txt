@@ -1,6 +1,6 @@
-token= NTM3MzEzNTIyMDE1NTM1MTM0.DyjcEQ.qVemADwjNL8FsrGES4t02sJ9yzg
+token= NTM3MzEzNTYwNzc1MzYwNTIz.Dyjc9A.lzCMTGMBCCyjqiMG6ZJ8JxOc73s
 owner= 444918581659172864
-prefix= Z
-game= Music ♫
+prefix= D
+game= Music 🌿
 stayinchannel=true 
 songinstatus=true
