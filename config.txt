@@ -1,6 +1,6 @@
-token= NTM2OTQ1MzAxOTkxMTk0NjI1.DyeGfA.JKEAH2HNyyJDcmM-xzws8O3MBmk
-owner= 450973027853664256
-prefix= 2
-game= Corazon Server
+token= NTM3MzEzNTIyMDE1NTM1MTM0.DyjcEQ.qVemADwjNL8FsrGES4t02sJ9yzg
+owner= 444918581659172864
+prefix= Z
+game= Music ♫
 stayinchannel=true 
-songinstatus=false 
+songinstatus=true
