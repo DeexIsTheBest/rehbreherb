@@ -1,6 +1,6 @@
-token= NTU5Nzk4ODE5NDAzOTg4OTkz.D3qoyw.ykSK_R0rRY2S7_bLQ9hz9ycFCss
-owner= 507529003855511562
-prefix= 3m
+token= NTU5Nzk5NzY0MjE3MTAyMzQ0.D3qprQ.SIEoGYXiJdZX-2S5q2T9rWQ5Ex8
+owner= 338730918485164032
+prefix= sa
 game= 
 stayinchannel=true 
 songinstatus=true
