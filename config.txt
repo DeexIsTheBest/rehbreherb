@@ -1,6 +1,6 @@
-token= NTU5Nzk5NzY0MjE3MTAyMzQ0.D3qprQ.SIEoGYXiJdZX-2S5q2T9rWQ5Ex8
-owner= 338730918485164032
-prefix= sa
-game= 
+token= NTc3NTEyMTM0NjAzMTc3OTk1.XNrK2A.hbDKDrMDvfjQU-6G21X0NjckK6w
+owner= 419474365248438282
+prefix= 1
+game= 1Play , 
 stayinchannel=true 
 songinstatus=true
